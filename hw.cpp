@@ -5,7 +5,7 @@ int main(int argc, char* argv[])
 {
   char name[8] = "Test";
 
-  int num1 = 120;
+  unsigned num1 = 120;
 
   int num2 = 120;
 
